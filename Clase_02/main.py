@@ -15,7 +15,7 @@ mayor_de_edad = edad >= 18
 print(mayor_de_edad)
 
 #Inicializacion de variables booleanas
-soy_yo = Allan (nombre == "allan" and edad == 22)
+soy_yo = (nombre == "allan" and edad == 22)
 no_soy_yo = not(nombre == "allan" and edad == 22)
 soy_yo = (nombre == "allan" and edad == 22)
 quizas_soy_yo = (nombre == "allan" or edad == 22)
