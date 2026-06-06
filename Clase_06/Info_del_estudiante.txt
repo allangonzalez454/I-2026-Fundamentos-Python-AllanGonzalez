@@ -1,0 +1,9 @@
+Nombre del estudiante: Allan
+Numero de carne: c1110
+Nota final: 98
+Nombre del estudiante: Allan
+Numero de carne: C145
+Nota final: 97
+Nombre del estudiante: Allan
+Numero de carne: c1120
+Nota final: 98
