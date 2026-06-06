@@ -9,5 +9,3 @@ elif mes == "Agosto":
     else:
         print(f"{agosto} personas cumplen anos en agosto")
   
-
-
